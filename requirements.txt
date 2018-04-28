@@ -1,0 +1,11 @@
+jupyter
+pandas
+bs4
+selenium
+scikit-learn
+requests
+ipdb
+matplotlib
+wordcloud
+scipy
+pillow==5.0.0
