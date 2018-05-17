@@ -9,3 +9,4 @@ matplotlib
 wordcloud
 scipy
 pillow==5.0.0
+html5lib==1.0b8
