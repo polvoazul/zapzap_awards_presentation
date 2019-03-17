@@ -105,3 +105,4 @@ group.*
 group_*.csv
 
 tmp/
+chromedriver
