@@ -1,0 +1,18 @@
+Public interface:
+v Create an email to recieve chats: zapzapawards@gmail.com
+- Create a static page with instructions
+
+Engine:
+- Create a poller that validate txt files, and txt file names
+- Create a consumer that processes txt -> bundle of png
+- Email png bundle back to users
+
+Awards:
+- Eliminar pessoas com poucas mensagens dos awards
+- Create more awards, obviously
+- Better looks
+- snippets of conversations should look good
+
+Logo:
+- Create a logo
+- A final png that points to the static page / footer on all pictures / link shortner?
